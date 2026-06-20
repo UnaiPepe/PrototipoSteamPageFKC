@@ -1,6 +1,6 @@
 window.STEAM_LAB_CONTENT = {
   "version": 1,
-  "updatedAt": "2026-06-20T16:24:44.130Z",
+  "updatedAt": "2026-06-20T16:29:44.012Z",
   "profiles": {
     "v1": {
       "name": "FKC: Fighting Krazy Chickens!",
@@ -128,6 +128,36 @@ window.STEAM_LAB_CONTENT = {
     "assets": {},
     "shots": [
       {
+        "id": "prototyping-chaos",
+        "name": "prototyping-chaos.png",
+        "size": 2000849,
+        "type": "image/png",
+        "width": 1897,
+        "height": 857,
+        "safe": true,
+        "url": "assets/art/prototyping-chaos.png"
+      },
+      {
+        "id": "keyart2",
+        "name": "keyart2.png",
+        "size": 650833,
+        "type": "image/png",
+        "width": 798,
+        "height": 731,
+        "safe": true,
+        "url": "assets/art/keyart2.png"
+      },
+      {
+        "id": "keyart-fkc",
+        "name": "keyart-fkc.jpg",
+        "size": 7074557,
+        "type": "image/jpeg",
+        "width": 7680,
+        "height": 4320,
+        "safe": true,
+        "url": "assets/screenshots/keyart-fkc.jpg"
+      },
+      {
         "id": "gameplay",
         "name": "gameplay.png",
         "size": 1901207,
@@ -148,14 +178,44 @@ window.STEAM_LAB_CONTENT = {
         "url": "assets/screenshots/coop.png"
       },
       {
-        "id": "keyart-fkc",
-        "name": "keyart-fkc.jpg",
-        "size": 7074557,
-        "type": "image/jpeg",
-        "width": 7680,
-        "height": 4320,
+        "id": "fkc-2x1-carousel",
+        "name": "fkc-2x1.gif",
+        "size": 10027822,
+        "type": "image/gif",
+        "width": 800,
+        "height": 447,
         "safe": true,
-        "url": "assets/screenshots/keyart-fkc.jpg"
+        "url": "assets/gifs/fkc-2x1.gif"
+      },
+      {
+        "id": "fkc-fast-carousel",
+        "name": "fkc-fast.gif",
+        "size": 45093644,
+        "type": "image/gif",
+        "width": 800,
+        "height": 450,
+        "safe": true,
+        "url": "assets/gifs/fkc-fast.gif"
+      },
+      {
+        "id": "upgrades-carousel",
+        "name": "upgrades.gif",
+        "size": 1130866,
+        "type": "image/gif",
+        "width": 659,
+        "height": 372,
+        "safe": true,
+        "url": "assets/gifs/upgrades.gif"
+      },
+      {
+        "id": "bomb-carousel",
+        "name": "bomb.gif",
+        "size": 1429611,
+        "type": "image/gif",
+        "width": 583,
+        "height": 488,
+        "safe": true,
+        "url": "assets/gifs/bomb.gif"
       }
     ],
     "gifs": [
