@@ -1,6 +1,6 @@
 window.STEAM_LAB_CONTENT = {
   "version": 1,
-  "updatedAt": "2026-06-20T12:17:05.951Z",
+  "updatedAt": "2026-06-20T15:37:52.062Z",
   "profiles": {
     "v1": {
       "name": "FKC: Fighting Krazy Chickens!",
@@ -50,7 +50,7 @@ window.STEAM_LAB_CONTENT = {
       "publisher": "Sunblind Games, Drunken Duck Co.",
       "tags": "Action, Roguelike, Indie",
       "languages": "English, Spanish, Japanese",
-      "about": "Welcome to FKC!\nIn Fighting Krazy Chickens, survival means turning your enemies into weapons. Grab chickens, throw them into massive hordes and unleash absurd chain reactions as the battlefield spirals completely out of control.\nFight endless waves, unlock ridiculous upgrades and embrace the chaos in this fast-paced action bullet heaven where every run becomes a completely different disaster.\nAttack. Destroy. Embrace the chaos.\n\nTHROW\nJust throw them!\nPick up enemies directly from the battlefield and turn them against the horde. Every chicken is a tool for your survival.\nExperiment with different enemy types, discover their effects and learn how to weaponize their absolute nonsense.[[gif:9c19fa5a-5d55-4e78-a7d4-8c1a15ba839d]]\nUPGRADE\nThrow more, bigger, better.\nChoose from 20+ chaotic, powerful upgrades during each run. Enhance your throws, dashes and passives, then unleash ridiculous interactions that escalate the chaos with every throw.\n[[gif:d64ff6f7-d344-40a3-a663-2d1a91f9f942]]\nSURVIVE\nEvery wave brings more chickens. Just keep throwing.\nFight endless waves of increasingly dangerous enemies while unlocking upgrades, evolving your build and trying to stay alive just a little bit longer.[[gif:9c704253-bbc7-4b57-b98b-408cce8b5694]]\nSOLO OR WITH FRIENDS\nThe flock never stops. Bring backup.\nFace the flock alone or bring backup. More players mean more explosions, more chaos and way more chickens flying across the screen.",
+      "about": "Welcome to FKC!\nIn Fighting Krazy Chickens, survival means turning your enemies into weapons. Grab chickens, throw them into massive hordes and unleash absurd chain reactions as the battlefield spirals completely out of control.\nFight endless waves, unlock ridiculous upgrades and embrace the chaos in this fast-paced action bullet heaven where every run becomes a completely different disaster.\n[[gif:9c19fa5a-5d55-4e78-a7d4-8c1a15ba839d]]\nTHROW\nEvery chicken is a weapon if you throw it hard enough.Pick up enemies directly from the battlefield and turn them against the horde. Every chicken is a tool for your survival.\nExperiment with different enemy types, discover their effects and learn how to weaponize their absolute nonsense.\nUPGRADE\nThrow more, bigger, Better.\nChoose from 20+ chaotic, powerful upgrades during each run. Enhance your throws, dashes and passives, then unleash ridiculous interactions that escalate the chaos with every throw.\n[[gif:9c704253-bbc7-4b57-b98b-408cce8b5694]]\nSURVIVE\nEvery wave brings more chickens. Just keep throwing.\nFight endless waves of increasingly dangerous enemies while unlocking upgrades, evolving your build and trying to stay alive just a little bit longer.\n[[gif:d64ff6f7-d344-40a3-a663-2d1a91f9f942]]\nSOLO OR WITH FRIENDS\nThe flock never stops. Bring backup.\nFace the flock alone or bring backup. More players mean more explosions, more chaos and way more chickens flying across the screen.",
       "minReq": "SO: Windows 10\nProcesador: 4 núcleos\nMemoria: 8 GB de RAM\nGráficos: 4 GB VRAM",
       "recReq": "SO: Windows 11\nProcesador: 6 núcleos\nMemoria: 16 GB de RAM\nGráficos: 8 GB VRAM",
       "releaseState": "soon",
@@ -73,7 +73,7 @@ window.STEAM_LAB_CONTENT = {
         "es": {
           "tagline": "The survivor-like where enemies are your bullets.",
           "shortDescription": "They broke his egg... & Kraze the Chicken took it personally. How much revenge does your egg deserve? FKC is a comedic survivorlike where enemies are bullets. Turn chickens into weapons, survive endless chicken hordes, upgrade your chicken and fight... way too many chickens!",
-          "aboutHtml": "<p>Welcome to FKC!</p>\n<p>In <b>Fighting Krazy Chickens</b>, survival means turning your enemies into weapons. Grab chickens, throw them into massive hordes and unleash absurd chain reactions as the battlefield spirals completely out of control.</p>\n<p>Fight endless waves, unlock ridiculous upgrades and embrace the chaos in this fast-paced action bullet heaven where every run becomes a completely different disaster.</p>\n<p><i class=\"subtitle\">Attack. Destroy. Embrace the chaos.</i></p>\n<p>[[gif:9c19fa5a-5d55-4e78-a7d4-8c1a15ba839d]]</p>\n<p><b>THROW</b></p>\n<p><i class=\"subtitle\">Just throw them!</i></p>\n<p>Pick up enemies directly from the battlefield and turn them against the horde. Every chicken is a tool for your survival.</p>\n<p>Experiment with different enemy types, discover their effects and learn how to weaponize their absolute nonsense.</p>\n<p><b>UPGRADE</b></p>\n<p><i class=\"subtitle\">Throw more, bigger, better.</i></p>\n<p>Choose from 20+ chaotic, powerful upgrades during each run. Enhance your throws, dashes and passives, then unleash ridiculous interactions that escalate the chaos with every throw.</p>\n<p>[[gif:9c704253-bbc7-4b57-b98b-408cce8b5694]]</p>\n<p><b>SURVIVE</b></p>\n<p><i class=\"subtitle\">Every wave brings more chickens. Just keep throwing.</i></p>\n<p>Fight endless waves of increasingly dangerous enemies while unlocking upgrades, evolving your build and trying to stay alive just a little bit longer.</p>\n<p>[[gif:d64ff6f7-d344-40a3-a663-2d1a91f9f942]]</p>\n<p><b>SOLO OR WITH FRIENDS</b></p>\n<p><i class=\"subtitle\">The flock never stops. Bring backup.</i></p>\n<p>Face the flock alone or bring backup. More players mean more explosions, more chaos and way more chickens flying across the screen.</p>"
+          "aboutHtml": "<p class=\"\">Welcome to FKC!</p>\n<p class=\"\">In <b class=\"\">Fighting Krazy Chickens</b>, survival means turning your enemies into weapons. Grab chickens, throw them into massive hordes and unleash absurd chain reactions as the battlefield spirals completely out of control.</p>\n<p class=\"\">Fight endless waves, unlock ridiculous upgrades and embrace the chaos in this fast-paced action bullet heaven where every run becomes a completely different disaster.</p>\n<p class=\"\">[[gif:9c19fa5a-5d55-4e78-a7d4-8c1a15ba839d]]</p>\n<p class=\"\"><b class=\"\"><br class=\"\"></b></p><p class=\"\"><b class=\"\">THROW</b></p>\n<p class=\"\"><span class=\"subtitle\"><i class=\"\">Every chicken is a weapon if you throw it hard enough.</i></span></p><p class=\"\">Pick up enemies directly from the battlefield and turn them against the horde. Every chicken is a tool for your survival.</p>\n<p class=\"\">Experiment with different enemy types, discover their effects and learn how to weaponize their absolute nonsense.</p>\n<p class=\"\"><b class=\"\"><br class=\"\"></b></p><p class=\"\"><b class=\"\">UPGRADE</b></p>\n<p class=\"\"><i class=\"subtitle\">Throw more, bigger, Better.</i></p>\n<p class=\"\">Choose from 20+ chaotic, powerful upgrades during each run. Enhance your throws, dashes and passives, then unleash ridiculous interactions that escalate the chaos with every throw.</p>\n<p class=\"\">[[gif:9c704253-bbc7-4b57-b98b-408cce8b5694]]</p><p class=\"\"><br class=\"\"></p>\n<p class=\"\"><b class=\"\">SURVIVE</b></p>\n<p class=\"\"><i class=\"subtitle\">Every wave brings more chickens. Just keep throwing.</i></p>\n<p class=\"\">Fight endless waves of increasingly dangerous enemies while unlocking upgrades, evolving your build and trying to stay alive just a little bit longer.</p>\n<p class=\"\">[[gif:d64ff6f7-d344-40a3-a663-2d1a91f9f942]]</p>\n<p class=\"\"><b class=\"\">SOLO OR WITH FRIENDS</b></p>\n<p class=\"\"><i class=\"subtitle\">The flock never stops. Bring backup.</i></p>\n<p class=\"\">Face the flock alone or bring backup. More players mean more explosions, more chaos and way more chickens flying across the screen.</p>"
         },
         "en": {
           "tagline": "The survivor-like where enemies are your bullets.",
@@ -85,12 +85,12 @@ window.STEAM_LAB_CONTENT = {
     "v3": {
       "name": "FKC: Fighting Krazy Chickens!",
       "tagline": "The survivor-like where enemies are your bullets.",
-      "shortDescription": "They broke his egg... & Kraze the Chicken took it personally. How much revenge does your egg deserve? FKC is a comedic survivorlike where enemies are bullets. Turn chickens into weapons, survive endless chicken hordes, upgrade your chicken and fight... way too many chickens!",
+      "shortDescription": "They broke his egg. Kraze the Chicken took it personally. How much revenge does your egg deserve? \n\nFKC is a comedic survivorlike where enemies are bullets. Turn chickens into weapons, survive endless chicken hordes, upgrade your chicken and fight... way too many Krazy Chickens!",
       "developer": "Sunblind Games",
       "publisher": "Sunblind Games, Drunken Duck Co.",
       "tags": "Action, Roguelike, Indie",
       "languages": "English, Spanish, Japanese",
-      "about": "Welcome to FKC!\nIn Fighting Krazy Chickens, your enemies are your ammunition. Turn the flock against itself and turn every run into a glorious chicken-powered disaster.\nAttack. Destroy. Embrace the chaos.\n\nTHROW\nYour enemies are your ammunition.\nGrab chickens straight from the battlefield and launch them back into the horde. Each enemy behaves differently when thrown, creating explosions, chain reactions and increasingly ridiculous ways to clear the screen.\nLearn what every chicken does, aim your throws and turn the entire flock against itself.[[gif:9c19fa5a-5d55-4e78-a7d4-8c1a15ba839d]]\nUPGRADE\nBuild the ultimate throwing machine.\nChoose from more than 20 upgrades and transform the way you fight. Throw farther, hit harder, dash more often and combine abilities to create increasingly absurd interactions.\nEvery upgrade pushes your build — and the battlefield — further out of control.[[gif:d64ff6f7-d344-40a3-a663-2d1a91f9f942]]\nSURVIVE\nThe flock keeps growing. Keep throwing.\nFace endless waves of faster, tougher and more dangerous enemies. Adapt your build, master each chicken type and survive for as long as you can.\nOne bad throw can end your run. One perfect throw can wipe out the entire screen.\n[[gif:9c704253-bbc7-4b57-b98b-408cce8b5694]]\nSOLO OR WITH FRIENDS\nThe flock never stops. Bring backup.\nFace the flock alone or bring backup. More players mean more explosions, more chaos and way more chickens flying across the screen.",
+      "about": "In Fighting Krazy Chickens, survival means turning your enemies into weapons. Grab chickens, throw them into massive hordes and unleash absurd chain reactions as the battlefield spirals completely out of control.Fight endless waves, unlock ridiculous upgrades and embrace the chaos in this fast-paced action bullet heaven where every run becomes a completely different disaster.[[gif:f46f4a3f-31dd-4f4b-9dab-a8d731d438a7]]THROWEvery chicken is a weapon if you throw it hard enough.Grab chickens directly from the battlefield and turn them against the horde. Every chicken is a tool for your survival.Experiment with different enemy types, discover their effects and learn how to weaponize their absolute nonsense.[[gif:13e6aa9f-fd1b-4cdb-9115-f7a400182f2c]]\nUPGRADE\nBuild the ultimate throwing machine.\nChoose from more than 20 upgrades and transform the way you fight. Throw farther, hit harder, dash more often and combine abilities to create increasingly absurd interactions.\nEvery upgrade pushes your build — and the battlefield — further out of control.\n[[gif:c05012c4-44f6-4996-a76b-9e4514ef444e]]\nSURVIVE\nThe flock keeps growing. Keep throwing.\nFace endless waves of faster, tougher and more dangerous enemies. Adapt your build, master each chicken type and survive for as long as you can.\nOne bad throw can end your run. One perfect throw can wipe out the entire screen.\n[[gif:2d15f118-4898-46b7-856a-47cbd3ee8005]]\nSOLO OR WITH FRIENDS\nThe battle never stops. Bring backup.\nFace the flock alone or bring backup. More players mean more explosions, more chaos and way more chickens flying across the screen!",
       "minReq": "SO: Windows 10\nProcesador: 4 núcleos\nMemoria: 8 GB de RAM\nGráficos: 4 GB VRAM",
       "recReq": "SO: Windows 11\nProcesador: 6 núcleos\nMemoria: 16 GB de RAM\nGráficos: 8 GB VRAM",
       "releaseState": "soon",
@@ -112,8 +112,8 @@ window.STEAM_LAB_CONTENT = {
       "locales": {
         "es": {
           "tagline": "The survivor-like where enemies are your bullets.",
-          "shortDescription": "They broke his egg... & Kraze the Chicken took it personally. How much revenge does your egg deserve? FKC is a comedic survivorlike where enemies are bullets. Turn chickens into weapons, survive endless chicken hordes, upgrade your chicken and fight... way too many chickens!",
-          "aboutHtml": "<p>Welcome to FKC!</p>\n<p>In <b>Fighting Krazy Chickens</b>, your enemies are your ammunition. Turn the flock against itself and turn every run into a glorious chicken-powered disaster.</p>\n<p><i class=\"subtitle\">Attack. Destroy. Embrace the chaos.</i></p>\n<p>[[gif:9c19fa5a-5d55-4e78-a7d4-8c1a15ba839d]]</p>\n<p><b>THROW</b></p>\n<p><i class=\"subtitle\">Your enemies are your ammunition.</i></p>\n<p>Grab chickens straight from the battlefield and launch them back into the horde. Each enemy behaves differently when thrown, creating explosions, chain reactions and increasingly ridiculous ways to clear the screen.</p>\n<p>Learn what every chicken does, aim your throws and turn the entire flock against itself.</p>\n<p><b>UPGRADE</b></p>\n<p><i class=\"subtitle\">Build the ultimate throwing machine.</i></p>\n<p>Choose from more than 20 upgrades and transform the way you fight. Throw farther, hit harder, dash more often and combine abilities to create increasingly absurd interactions.</p>\n<p>Every upgrade pushes your build — and the battlefield — further out of control.</p>\n<p>[[gif:9c704253-bbc7-4b57-b98b-408cce8b5694]]</p>\n<p><b>SURVIVE</b></p>\n<p><i class=\"subtitle\">The flock keeps growing. Keep throwing.</i></p>\n<p>Face endless waves of faster, tougher and more dangerous enemies. Adapt your build, master each chicken type and survive for as long as you can.</p>\n<p>One bad throw can end your run. One perfect throw can wipe out the entire screen.</p>\n<p>[[gif:d64ff6f7-d344-40a3-a663-2d1a91f9f942]]</p>\n<p><b>SOLO OR WITH FRIENDS</b></p>\n<p><i class=\"subtitle\">The flock never stops. Bring backup.</i></p>\n<p>Face the flock alone or bring backup. More players mean more explosions, more chaos and way more chickens flying across the screen.</p>"
+          "shortDescription": "They broke his egg. Kraze the Chicken took it personally. How much revenge does your egg deserve? \n\nFKC is a comedic survivorlike where enemies are bullets. Turn chickens into weapons, survive endless chicken hordes, upgrade your chicken and fight... way too many Krazy Chickens!",
+          "aboutHtml": "<p class=\"\">In&nbsp;<b class=\"\">Fighting Krazy Chickens</b>, survival means turning your enemies into weapons. Grab chickens, throw them into massive hordes and unleash absurd chain reactions as the battlefield spirals completely out of control.</p><p class=\"\">Fight endless waves, unlock ridiculous upgrades and embrace the chaos in this fast-paced action bullet heaven where every run becomes a completely different disaster.</p><p class=\"\">[[gif:f46f4a3f-31dd-4f4b-9dab-a8d731d438a7]]</p><p class=\"\"><br class=\"\"></p><p class=\"\"><b class=\"\">THROW</b></p><p class=\"\"><span class=\"subtitle\"><i class=\"\">Every chicken is a weapon if you throw it hard enough.</i></span></p><p class=\"\">Grab chickens directly from the battlefield and turn them against the horde. Every chicken is a tool for your survival.</p><p class=\"\">Experiment with different enemy types, discover their effects and learn how to weaponize their absolute nonsense.</p><p class=\"\">[[gif:13e6aa9f-fd1b-4cdb-9115-f7a400182f2c]]</p>\n<p class=\"\"><b class=\"\">UPGRADE</b></p>\n<p class=\"\"><i class=\"subtitle\">Build the ultimate throwing machine.</i></p>\n<p class=\"\">Choose from more than 20 upgrades and transform the way you fight. Throw farther, hit harder, dash more often and combine abilities to create increasingly absurd interactions.</p>\n<p class=\"\">Every upgrade pushes your build — and the battlefield — further out of control.</p>\n<p class=\"\">[[gif:c05012c4-44f6-4996-a76b-9e4514ef444e]]</p>\n<p class=\"\"><b class=\"\">SURVIVE</b></p>\n<p class=\"\"><i class=\"subtitle\">The flock keeps growing. Keep throwing.</i></p>\n<p class=\"\">Face endless waves of faster, tougher and more dangerous enemies. Adapt your build, master each chicken type and survive for as long as you can.</p>\n<p class=\"\">One bad throw can end your run. One perfect throw can wipe out the entire screen.</p>\n<p class=\"\">[[gif:2d15f118-4898-46b7-856a-47cbd3ee8005]]</p>\n<p class=\"\"><b class=\"\">SOLO OR WITH FRIENDS</b></p>\n<p class=\"\"><i class=\"subtitle\">The battle never stops. Bring backup.</i></p>\n<p class=\"\">Face the flock alone or bring backup. More players mean more explosions, more chaos and way more chickens flying across the screen!</p>"
         },
         "en": {
           "tagline": "The survivor-like where enemies are your bullets.",
@@ -122,5 +122,86 @@ window.STEAM_LAB_CONTENT = {
         }
       }
     }
+  },
+  "media": {
+    "version": 1,
+    "assets": {},
+    "shots": [
+      {
+        "id": "gameplay",
+        "name": "gameplay.png",
+        "size": 1901207,
+        "type": "image/png",
+        "width": 1920,
+        "height": 1080,
+        "safe": true,
+        "url": "assets/screenshots/gameplay.png"
+      },
+      {
+        "id": "coop",
+        "name": "coop.png",
+        "size": 1766203,
+        "type": "image/png",
+        "width": 1591,
+        "height": 894,
+        "safe": true,
+        "url": "assets/screenshots/coop.png"
+      },
+      {
+        "id": "keyart-fkc",
+        "name": "keyart-fkc.jpg",
+        "size": 7074557,
+        "type": "image/jpeg",
+        "width": 7680,
+        "height": 4320,
+        "safe": true,
+        "url": "assets/screenshots/keyart-fkc.jpg"
+      }
+    ],
+    "aboutGifs": {
+      "v1": [
+        {
+          "id": "9c19fa5a-5d55-4e78-a7d4-8c1a15ba839d",
+          "name": "fkc-2x1.gif",
+          "size": 10027822,
+          "type": "image/gif",
+          "width": 800,
+          "height": 447,
+          "url": "assets/gifs/fkc-2x1.gif"
+        },
+        {
+          "id": "9c704253-bbc7-4b57-b98b-408cce8b5694",
+          "name": "upgrades.gif",
+          "size": 1130866,
+          "type": "image/gif",
+          "width": 659,
+          "height": 372,
+          "url": "assets/gifs/upgrades.gif"
+        },
+        {
+          "id": "d64ff6f7-d344-40a3-a663-2d1a91f9f942",
+          "name": "bomb.gif",
+          "size": 1429611,
+          "type": "image/gif",
+          "width": 583,
+          "height": 488,
+          "url": "assets/gifs/bomb.gif"
+        }
+      ]
+    },
+    "catalog": [
+      {
+        "path": "assets/art/keyart2.png",
+        "name": "keyart2.png"
+      },
+      {
+        "path": "assets/art/prototyping-chaos.png",
+        "name": "prototyping-chaos.png"
+      },
+      {
+        "path": "assets/gifs/fkc-fast.gif",
+        "name": "fkc-fast.gif"
+      }
+    ]
   }
 };
