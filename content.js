@@ -187,6 +187,44 @@ window.STEAM_LAB_CONTENT = {
           "height": 488,
           "url": "assets/gifs/bomb.gif"
         }
+      ],
+      "v3": [
+        {
+          "id": "f46f4a3f-31dd-4f4b-9dab-a8d731d438a7",
+          "name": "fkc-2x1.gif",
+          "size": 10027822,
+          "type": "image/gif",
+          "width": 800,
+          "height": 447,
+          "url": "assets/gifs/fkc-2x1.gif"
+        },
+        {
+          "id": "13e6aa9f-fd1b-4cdb-9115-f7a400182f2c",
+          "name": "fkc-fast.gif",
+          "size": 45093644,
+          "type": "image/gif",
+          "width": 800,
+          "height": 450,
+          "url": "assets/gifs/fkc-fast.gif"
+        },
+        {
+          "id": "c05012c4-44f6-4996-a76b-9e4514ef444e",
+          "name": "upgrades.gif",
+          "size": 1130866,
+          "type": "image/gif",
+          "width": 659,
+          "height": 372,
+          "url": "assets/gifs/upgrades.gif"
+        },
+        {
+          "id": "2d15f118-4898-46b7-856a-47cbd3ee8005",
+          "name": "bomb.gif",
+          "size": 1429611,
+          "type": "image/gif",
+          "width": 583,
+          "height": 488,
+          "url": "assets/gifs/bomb.gif"
+        }
       ]
     },
     "catalog": [
